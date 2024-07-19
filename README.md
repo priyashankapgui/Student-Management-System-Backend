@@ -1,4 +1,3 @@
-"# Student-Management-System-Backend"
 
 # Student Management System
 
