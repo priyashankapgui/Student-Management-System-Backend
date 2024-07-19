@@ -18,7 +18,7 @@ This is a Spring Boot backend application designed to manage student records. Th
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- MySQL (or your preferred database)
+- MySQL 
 - Maven
 - Lombok
 
@@ -29,9 +29,10 @@ This is a Spring Boot backend application designed to manage student records. Th
 - MySQL or another database system
 
 ## Getting Started
+-Change the Database Password in the application.properties file
 
-### Clone the Repository
+## Others
+-If you want to  full-stack application, then please Colne the Student-Management-System-Frontend
 
-```bash
 git clone https://github.com/your-username/student-management-system.git
-cd student-management-system
+
