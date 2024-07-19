@@ -26,7 +26,7 @@ This is a Spring Boot backend application designed to manage student records. Th
 
 - JDK 11 or higher
 - Maven 3.6+
-- MySQL or another database system
+- MySQL database system
 
 ## Getting Started
 - Change the Database Password in the application.properties file
