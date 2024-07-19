@@ -3,13 +3,14 @@
 
 ## Overview
 
-This is a Spring Boot backend application designed to manage student records. The system supports operations such as creating, reading, updating, and deleting student information.
+This is a Spring Boot backend application designed to manage student records. The system supports operations such as creating, reading, updating, searching and deleting student information.
 
 ## Features
 
 - Add new students
 - View student details
 - Update existing student information
+- - Search functionality to find student records
 - Delete student records
 
 ## Technologies Used
