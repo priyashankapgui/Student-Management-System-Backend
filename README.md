@@ -29,9 +29,9 @@ This is a Spring Boot backend application designed to manage student records. Th
 - MySQL or another database system
 
 ## Getting Started
--Change the Database Password in the application.properties file
+- Change the Database Password in the application.properties file
 
 ## Others
--If you want to  full-stack application, then please Colne the Student-Management-System-Frontend
-git clone https://github.com/your-username/student-management-system.git
+- If you want to  full-stack application, then please Colne the Student-Management-System-Frontend
+- https://github.com/priyashankapgui/Student-Mgmt-System-FrontEnd.git
 
