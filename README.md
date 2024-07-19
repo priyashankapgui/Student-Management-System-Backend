@@ -10,7 +10,7 @@ This is a Spring Boot backend application designed to manage student records. Th
 - Add new students
 - View student details
 - Update existing student information
-- - Search functionality to find student records
+- Search functionality to find student records
 - Delete student records
 
 ## Technologies Used
