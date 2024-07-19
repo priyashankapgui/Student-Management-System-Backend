@@ -33,6 +33,5 @@ This is a Spring Boot backend application designed to manage student records. Th
 
 ## Others
 -If you want to  full-stack application, then please Colne the Student-Management-System-Frontend
-
 git clone https://github.com/your-username/student-management-system.git
 
